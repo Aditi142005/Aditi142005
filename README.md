@@ -151,7 +151,7 @@ A growing collection of my DSA practice and problem-solving work in Java.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aditi142005/Aditi142005/main/snake/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/Aditi142005/Aditi142005/main/snake/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
 <br>
 
