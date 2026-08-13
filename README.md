@@ -2,9 +2,9 @@
 
 # 🖥️ ADITI.EXE
 
-### `building • debugging • learning • repeating`
+### `build • break • debug • learn • repeat`
 
-🍵 Tea-powered developer · 🧠 DSA learner · 🚀 Project builder
+🍵 Tea-powered developer · 💻 Java & Full-Stack · 🧠 DSA · 🚀 Building FitIQ
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=building+things+that+make+me+curious+%F0%9F%9A%80;breaking+things+and+then+debugging+them+%F0%9F%90%9B;learning+DSA+one+problem+at+a+time+%F0%9F%A7%A0;powered+by+tea+%F0%9F%8D%B5;welcome+to+my+little+corner+of+GitHub+%F0%9F%91%8B" alt="Typing animation">
@@ -27,7 +27,7 @@
 
 <tr>
 <td>🔧 <b>Exploring</b></td>
-<td>Backend development & data analytics</td>
+<td>Backend development & analytics</td>
 </tr>
 
 <tr>
@@ -156,6 +156,82 @@ A growing collection of my DSA practice and problem-solving work in Java.
 <br>
 
 <sub>Apparently, I like collecting green squares. 🍵</sub>
+
+</div>
+
+---
+
+<h2 align="center">🐛 KNOWN BUGS</h2>
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│  SYSTEM DIAGNOSTICS                          │
+│                                              │
+│  [✓] Overthinks simple problems              │
+│  [✓] Says "one small change"                 │
+│  [✓] Somehow changes everything              │
+│  [✓] Code works → don't touch it             │
+│  [✓] Tea dependency cannot be removed 🍵     │
+│                                              │
+│  STATUS: still functioning 🚀                │
+└──────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+<h2 align="center">🎮 SECRET LEVEL</h2>
+
+<details>
+<summary><b>👀 You found something...</b></summary>
+
+<br>
+
+<div align="center">
+
+<h3>🏆 ACHIEVEMENT UNLOCKED</h3>
+
+<p>
+<b>PROFILE EXPLORER</b>
+</p>
+
+<p>
+You actually scrolled this far. 👀
+</p>
+
+<p>
+Reward: 🍵 +1 virtual tea
+</p>
+
+<p>
+Thanks for making it this far!
+</p>
+
+</div>
+
+</details>
+
+---
+
+<h2 align="center">📫 LET'S CONNECT</h2>
+
+<div align="center">
+
+<a href="mailto:aditi1452005@gmail.com">
+<img src="https://img.shields.io/badge/Email-Me-informational?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `Thanks for stopping by! 🍵`
+
+**Now go build something cool. 🚀**
 
 </div>
 
