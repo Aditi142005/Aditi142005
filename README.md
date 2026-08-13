@@ -67,3 +67,83 @@
 </div>
 
 ---
+<h2 align="center">🚀 THINGS I'VE BUILT</h2>
+
+<div align="center">
+
+<h3>🧬 FitIQ</h3>
+
+<p>
+<b>AI-Based Personalized Fitness Recommendation System</b>
+</p>
+
+<p>
+🚧 <b>Currently building</b>
+</p>
+
+<p>
+A full-stack fitness platform focused on personalized insights
+and recommendations from user health and lifestyle data.
+</p>
+
+<p>
+<code>React</code> · <code>Flask</code> · <code>Firebase</code> · <code>Data Analytics</code>
+</p>
+
+<a href="https://github.com/Aditi142005/FitIQ">
+<b>View Project →</b>
+</a>
+
+<br><br>
+
+<h3>⚙️ CPU Scheduling Simulator</h3>
+
+<p>
+An interactive project for understanding and visualizing
+CPU scheduling algorithms.
+</p>
+
+<p>
+<code>JavaScript</code> · <code>Algorithms</code> · <code>Operating Systems</code>
+</p>
+
+<a href="https://github.com/Aditi142005/CPU-SCHEDULING-SIMULATOR">
+<b>View Project →</b>
+</a>
+
+<br><br>
+
+<h3>🧠 Word Similarity Tool</h3>
+
+<p>
+NLP project using pretrained GloVe embeddings to calculate
+word similarity and visualize semantic relationships.
+</p>
+
+<p>
+<code>Python</code> · <code>NLP</code> · <code>GloVe</code> · <code>PCA</code>
+</p>
+
+<a href="https://github.com/Aditi142005/word-similarity-tool">
+<b>View Project →</b>
+</a>
+
+<br><br>
+
+<h3>📚 DSA Journey</h3>
+
+<p>
+A growing collection of my DSA practice and problem-solving work in Java.
+</p>
+
+<p>
+<code>Java</code> · <code>DSA</code> · <code>Problem Solving</code>
+</p>
+
+<a href="https://github.com/Aditi142005/DSA">
+<b>View Repository →</b>
+</a>
+
+</div>
+
+---
