@@ -147,3 +147,16 @@ A growing collection of my DSA practice and problem-solving work in Java.
 </div>
 
 ---
+<h2 align="center">🐍 MY CONTRIBUTION TRAIL</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Aditi142005/Aditi142005/main/snake/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+
+<br>
+
+<sub>Apparently, I like collecting green squares. 🍵</sub>
+
+</div>
+
+---
