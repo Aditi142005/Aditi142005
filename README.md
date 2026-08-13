@@ -12,3 +12,58 @@
 </div>
 
 ---
+## 🍵 CURRENT STATUS
+
+<table>
+<tr>
+<td>🚀 <b>Building</b></td>
+<td>FitIQ — AI-based personalized fitness recommendation system</td>
+</tr>
+
+<tr>
+<td>🧠 <b>Practicing</b></td>
+<td>DSA & Java</td>
+</tr>
+
+<tr>
+<td>🔧 <b>Exploring</b></td>
+<td>Backend development & data analytics</td>
+</tr>
+
+<tr>
+<td>🐛 <b>Currently fighting</b></td>
+<td>Bugs that mysteriously disappear when I look at them</td>
+</tr>
+
+<tr>
+<td>🍵 <b>Fuel</b></td>
+<td>Tea. Always tea.</td>
+</tr>
+</table>
+
+> `Learn → Build → Break → Debug → Repeat 🔄`
+
+---
+<h2 align="center">🛠️ MY TOOLBOX</h2>
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+
+### ⚙️ Backend & Data
+
+<img src="https://skillicons.dev/icons?i=flask,mongodb,firebase" />
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
